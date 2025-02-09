@@ -1,5 +1,5 @@
 import heapq
-import networkx as nx
+import networkx as nx  # Ensure the networkx library is installed: pip install networkx
 import matplotlib.pyplot as plt
 
 
